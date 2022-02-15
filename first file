@@ -1,0 +1,73 @@
+<DOCTYP html>
+    <html>
+        <head>
+            <meta charset="UTF-8">
+            <meta name description="contact="coding>
+            <title>sara is good girle</title>
+            <style>
+                .test
+                {
+                    color: rgb(91, 187, 155);
+                }
+                p{color:rgb(26, 126, 126)}
+                p{background:rgb(240, 239, 235)}
+                table caption {color:rgb(26, 126, 126)}
+            
+            </style>   
+        </head>    
+            <body>
+             <form action=""></form>
+        <fieldset>
+            <legend>اتصل بنا</legend>
+            <label for="name">الاسم:</label>
+            <input type="text"placeholder="اكتب اسمك .."><br>
+            <label for="last name">اسم العائلة:</label><br>
+            <input type="text"placeholder="اكتب اسم العائلة .."><br>
+            <label for="email">البريد الإلكتروني:</label><br>
+            <input type="email"placeholder="اكتب عنوان بريدك الإلكتروني"><br>
+            <label for="message">الرسالة:</label><br>
+            <textarea placeholder="رسالتك"></textarea><br>
+            <input type="submit" value="إرسال">
+           </fieldset>
+             <div class="test">
+                <h1>This is sara</h1>
+                <h3>first</h3>
+                <p>i was born in yemen</p>
+                <h3>second</h3>
+                <p> I LOVE :</p>
+                <UL>
+                    <LI>reading</LI>
+                    <LI>coding</LI>
+                </UL>
+                <p>learning This</p>
+                <ol>
+                    <li>html5</li>
+                    <li>css</li>
+                </ol>
+                 <dl>
+                     <p><dt>I want a new laptop from these company</dt></p>
+                     <dd>hp</dd>
+                    <dd>apple</dd>
+                </dl>
+                <p>i <strong>don't know</strong>,realy i feel <smal>lost</smal> <br> 
+                <em>just joke , lol</em></p>
+                <br> 
+                <p><b>maybe i look like quiet girle but i'm very smart and i can see something, normal people can't see</b></p>
+                <caption>This plan for learning coding</caption>
+                <table border="2"width="600">
+                    <tr>
+                        <th>oct</th>
+                        <th>des</th>
+                    </tr>
+                    <tr>
+                        <td>html</td>
+                        <td>css</td>
+                    </tr>
+                    <tr>
+                        <td>JS</td>
+                        <td>C++</td>
+                    </tr>
+                </table>
+             </div>
+            </body>
+    </html>
